@@ -117,8 +117,7 @@ h2 .icon {
   width: 192px;
   height: 192px;
   margin: 0 0 1em 0;
-  border: .5em solid white;
-  box-shadow: #2980B9 1px 1px 0;
+  box-shadow: white 0 0 0 .5em;
 }
 .member .role {
   margin: 0;
